@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Priyanka Anindita </title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon" />
+
+  <!-- Vendor CSS Files -->
+  <link rel="stylesheet" href="assets/vendor/aos.css/aos.css" />
+  <link rel="stylesheet" href="assets/vendor/flickity.css/flickity.css" />
+
+  <!-- Template Main CSS File -->
+  <link rel="stylesheet" href="assets/css/style.css" />
+
+
+
+</head>
+
+<body>
+  <!-- ======= Header ======= -->
+  <div class="nav">
+    <a data-scroll data-easing="easeInQuint" href="#beranda" data-aos="fade-down" data-aos-duration="400"
+      data-aos-delay="50">Home</a>
+    <a data-scroll data-easing="easeInQuint" href="#tentang" data-aos="fade-down" data-aos-duration="400"
+      data-aos-delay="100">About Us</a>
+    
+    <img src="assets/img/logo.png" alt="" data-aos="fade-down" data-aos-duration="1500">
+    <a data-scroll data-easing="easeInQuint" href="vid.html" data-aos="fade-down" data-aos-duration="400"
+      data-aos-delay="150">Link</a>
+    <a data-scroll data-easing="easeInQuint" href="https://meet.google.com/mmm-ndcf-zbw" data-aos="fade-down" data-aos-duration="400"
+      data-aos-delay="100">Galery</a>
+    <a data-scroll data-easing="easeInQuint" href="#gallery" data-aos="fade-down" data-aos-duration="400"
+      data-aos-delay="50"></a>
+    <img src="assets/img/menu.png" alt="" id="btn-nav" data-aos="fade-down" data-aos-duration="700" data-aos-delay="50">
+  </div>
+
+
+  <!-- ======= Navbar ======= -->
+  <div class="nav-menu">
+    <div class="btn-menu">
+      <img src="assets/img/close.png" alt="" id="btn-menu">
+    </div>
+    <a id="nav-link" data-scroll data-easing="easeInQuint" href="#beranda">Home</a>
+    <a id="nav-link1" data-scroll data-easing="easeInQuint" href="#tentang">About Us</a>
+    <a id="nav-link4" data-scroll data-easing="easeInQuint" href="#partnership">Galery</a>
+    <a id="nav-link5" data-scroll data-easing="easeInQuint" href="https://meet.google.com/mmm-ndcf-zbw">Link</a>
+  </div> <!-- End Header -->
+
+  <!-- ======= Home Start ======= -->
+  <div class="beranda" id="beranda">
+    <span id="typed" data-aos="fade-up" data-aos-duration="500"></span>
+  </div>
+  <!-- ======= Home End ======= -->
+
+  <!-- ======= About Start ======= -->
+  <div class="tentang container" id="tentang">
+    <img src="assets/img/US.png" alt="" data-aos="fade-down" data-aos-duration="1500" data-aos-delay="200">
+    <div class="area-tentang" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="200">
+      <h1 class="judul">About Us</h1>
+      <p>
+        Kami adalah Pasangan yang sangat suka kulineran, Tapi pedes dikit ga banyak. Kami juga sangat suka dengan logo penyimpanan penuh yang ada dihandphone. dan kalimat yang sering kami bicarakan adalah BJIRRSS.
+      </p>
+      <p>. . .</p>
+    </div>
+  </div>
+  <!-- ======= About End ======= -->
+
+
+  <!-- ======= Footer Start ======= -->
+  <div class="footer">
+    <div class="footer-1">
+      <div class="footer-logo" data-aos="fade-down" data-aos-duration="800">
+        <img src="assets/img/logo.png" alt="">
+        <h1>Priyanka Anindita</h1>
+      </div>
+      <p data-aos="fade-up" data-aos-duration="800">Polimedia, Desain Gratis</p>
+      <div class="sosial-media">
+        <a href="">
+          <img src="assets/img/facebook.png" alt="" data-aos="zoom-in-up" data-aos-duration="800" data-aos-delay="200">
+        </a>
+        <a href="">
+          <img src="assets/img/instagram.png" alt="" data-aos="zoom-in-up" data-aos-duration="800" data-aos-delay="250">
+        </a>
+        <a href="">
+          <img src="assets/img/twitter.png" alt="" data-aos="zoom-in-up" data-aos-duration="800" data-aos-delay="300">
+        </a>
+      </div>
+    </div>
+
+    <div class="footer-2">
+      <h1 data-aos="fade-down" data-aos-duration="800" data-aos-delay="200">Contact</h1>
+      <a href="" data-aos="fade-up" data-aos-duration="800" data-aos-delay="250">+6285691982976</a>
+      <a href="" data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">muhamadpendi25@gmail.com</a>
+    </div>
+
+
+    <div class="footer-4" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+      <h1>Link</h1>
+      <a data-scroll data-easing="easeInQuint" href="#beranda">Home</a>
+      <a data-scroll data-easing="easeInQuint" href="#tentang">About Us</a>
+      <a data-scroll data-easing="easeInQuint" href="#menu">Menu</a>
+      <a data-scroll data-easing="easeInQuint" href="#review">Review</a>
+      <a data-scroll data-easing="easeInQuint" href="#partnership">Partnership</a>
+      <a data-scroll data-easing="easeInQuint" href="#lokasi">Video/a>
+    </div>
+  </div>
+  <footer>
+    <h1><a href="">Copy Right and Left bjirrs.....</h1>
+  </footer>
+  <!-- ======= Footer End ======= -->
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery.js/jquery.js"></script>
+  <script src="assets/vendor/type.js/type.js"></script>
+  <script src="assets/vendor/aos.js/aos.js"></script>
+  <script src="assets/vendor/flickity.js/flickity.pkgd.min.js"></script>
+  <script src="assets/vendor/smoth-scroll.js/smoth-scroll.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
+
+
